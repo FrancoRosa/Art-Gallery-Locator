@@ -1,3 +1,13 @@
+
+body { 
+    background: url(../imgs/main.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
 .nml-5 {
   left: -80px;
 }
@@ -13,6 +23,11 @@
 .bg-icool {
     background: rgb(12,13,11);
     background: linear-gradient(180deg, rgba(12,13,11,0.6558998599439776) 0%, rgba(12,13,11,0.896796218487395) 31%);
-
 }
 
+@media only screen and (max-width: 600px) {
+  .bg-cool {
+      display: flex;
+      justify-content: center;
+    }
+  }

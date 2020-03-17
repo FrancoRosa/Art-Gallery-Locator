@@ -1,2 +1,2 @@
-# BJJ-Certified-Locator
-This is a web application to help you find a Certified BJJ Academy. Microverse Capstone Project.
+# Art-galery-Locator
+This is a web application to help you find a registered Art galery. Microverse Capstone Project.
