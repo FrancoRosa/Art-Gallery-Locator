@@ -16,6 +16,15 @@ body {
   bottom:0;
 }   */
 
+section {
+  display: block;
+  height:100%;
+  width:100%;
+  padding: 60px;
+  padding-left: 120px;
+  box-sizing:border-box;
+}
+
 .nml-5 {
   left: -80px;
 }
