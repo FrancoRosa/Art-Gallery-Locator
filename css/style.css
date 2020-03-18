@@ -1,12 +1,20 @@
 
 body { 
-    background: url(../imgs/background.jpg) no-repeat center center fixed; 
+    background: 
+    linear-gradient(135deg, rgba(0,0,0,1) 0%,
+    rgba(0,0,0,0.98) 8%,
+    rgba(255,255,255,0.7) 100%), 
+      url(../imgs/background.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
   }
 
+/* footer {
+  position:fixed;
+  bottom:0;
+}   */
 
 .nml-5 {
   left: -80px;
@@ -23,6 +31,13 @@ body {
 .bg-icool {
     background: rgb(12,13,11);
     background: linear-gradient(180deg, rgba(12,13,11,0.6558998599439776) 0%, rgba(12,13,11,0.896796218487395) 31%);
+}
+
+.social-media-links {
+  font-size: 2rem;
+  list-style: none;
+  display: flex;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {
