@@ -10,25 +10,16 @@ This project was made to show my basic HTML and CCS skills I prefered to use Boo
 ## Presentation Video
 [![Video Screeshot](https://user-images.githubusercontent.com/5665734/77329362-e5fe8b00-6ceb-11ea-93a9-af1c34c66d3e.png)](https://www.loom.com/share/a559c5077f0d4b469c34d53c56cc8fd7)
 
-
-
-
-
-
 ## Author
 👤 Franco Rosa
-
 - Github: [@FrancoRosa](https://github.com/FrancoRosa)
 - Linkedin: [linkedin](https://www.linkedin.com/in/franco-rosa-79972119b)
 
 ## 🤝 Contributing
-
 Contributions, issues and feature requests are welcome!
-
 Feel free to check the [issues page](issues/).
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
@@ -38,7 +29,4 @@ Give a ⭐️ if you like this project!
 - Team 94 Capricornus Microverse
 
 ## 📝 License
-
 This project is [MIT](lic.url) licensed.
-=======
->>>>>>> master
