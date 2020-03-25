@@ -1,21 +1,6 @@
-body {
-  background:
-    linear-gradient(
-      135deg,
-      rgba(0, 0, 0, 1) 0%,
-      rgba(0, 0, 0, 0.98) 8%,
-      rgba(255, 255, 255, 0.7) 100%
-    ),
-    url(../imgs/background.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 section {
   display: block;
-  height: 100%;
+  min-height: 600px;
   width: 100%;
   box-sizing: border-box;
 }
@@ -42,6 +27,40 @@ section {
       rgba(12, 13, 11, 0.65) 0%,
       rgba(12, 13, 11, 0.89) 31%
     );
+}
+
+.bg-isect {
+  background:
+    linear-gradient(
+      315deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    );
+}
+
+.bg-map {
+  background:
+  linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.98) 8%,
+    rgba(255, 255, 255, 0.7) 100%
+  ),
+  url(../imgs/map.png) no-repeat center center fixed;
+ background-size: cover;
+}
+
+.bg-paint {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    ),
+    url(../imgs/bg-paint.png) no-repeat center center fixed;
+  background-size: cover;
 }
 
 .social-media-links {
