@@ -10,7 +10,6 @@ section {
 }
 
 .bg-cool {
-  background: rgb(12, 13, 11);
   background:
     linear-gradient(
       0deg,
@@ -20,7 +19,6 @@ section {
 }
 
 .bg-icool {
-  background: rgb(12, 13, 11);
   background:
     linear-gradient(
       180deg,
@@ -74,6 +72,13 @@ section {
     url(../imgs/bg-paint.png) no-repeat center center fixed;
   background-size: cover;
 }
+
+iframe {
+  width:75%;
+  height: 450px;
+  border-radius: 10px;
+}
+
 
 .social-media-links {
   font-size: 2rem;
