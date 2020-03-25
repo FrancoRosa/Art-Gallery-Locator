@@ -8,7 +8,7 @@ This project was made to show my basic HTML and CCS skills I prefered to use Boo
 [Live Demo Link](https://gallerylocator.netlify.com)
 
 ## Presentation Video
-[![Video Screeshot](https://user-images.githubusercontent.com/5665734/77329362-e5fe8b00-6ceb-11ea-93a9-af1c34c66d3e.png)](https://www.loom.com/share/a559c5077f0d4b469c34d53c56cc8fd7)
+[![Video Screeshot](https://user-images.githubusercontent.com/5665734/77563464-509bfc00-6e8f-11ea-8edc-7768acb1669c.png)](https://www.loom.com/share/91f6309149cf4f1b866d9b874ec8be05)
 
 ## Author
 👤 Franco Rosa
