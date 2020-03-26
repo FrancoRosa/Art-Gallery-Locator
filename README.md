@@ -10,7 +10,7 @@ For this project I customized bootstrap to hav an -lg- breakpoint at 1024px.
 [Live Demo Link](https://gallerylocator.netlify.com)
 
 ## Presentation Video
-[![Video Screeshot](https://user-images.githubusercontent.com/5665734/77563464-509bfc00-6e8f-11ea-8edc-7768acb1669c.png)](https://www.loom.com/share/91f6309149cf4f1b866d9b874ec8be05)
+[![Video Screeshot](https://user-images.githubusercontent.com/5665734/77563464-509bfc00-6e8f-11ea-8edc-7768acb1669c.png)](https://www.loom.com/share/e77dfeefef614428b6f2b9c6fa74677a)
 
 ## Author
 👤 Franco Rosa
