@@ -74,23 +74,27 @@ section {
 }
 
 .bg-feature {
-  background: rgb(140,140,140);
-  background: 
-    linear-gradient(315deg,
-  rgba(140,140,140,0.92) 1%,
-  rgba(255,255,255,0.81) 99%);
+  background: rgb(140, 140, 140);
+  background:
+    linear-gradient(
+      315deg,
+      rgba(140, 140, 140, 0.92) 1%,
+      rgba(255, 255, 255, 0.81) 99%
+    );
 }
 
 .bg-ifeature {
-  background: rgb(140,140,140);
-  background: 
-    linear-gradient(135deg,
-  rgba(140,140,140,0.92) 1%,
-  rgba(255,255,255,0.81) 99%);
+  background: rgb(140, 140, 140);
+  background:
+    linear-gradient(
+      135deg,
+      rgba(140, 140, 140, 0.92) 1%,
+      rgba(255, 255, 255, 0.81) 99%
+    );
 }
 
 iframe {
-  width:75%;
+  width: 75%;
   height: 450px;
   border-radius: 10px;
 }
