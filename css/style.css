@@ -1,0 +1,134 @@
+section {
+  display: block;
+  min-height: 600px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.nml-5 {
+  left: -50px;
+}
+
+.bg-cool {
+  background:
+    linear-gradient(
+      0deg,
+      rgba(12, 13, 11, 0.65) 0%,
+      rgba(12, 13, 11, 0.89) 31%
+    );
+}
+
+.bg-icool {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(12, 13, 11, 0.65) 0%,
+      rgba(12, 13, 11, 0.89) 31%
+    );
+}
+
+.bg-isect {
+  background:
+    linear-gradient(
+      315deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    );
+}
+
+.bg-map {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    ),
+    url(../imgs/map.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg-mus {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    ),
+    url(../imgs/bg-mus.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg-paint {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.98) 8%,
+      rgba(255, 255, 255, 0.7) 100%
+    ),
+    url(../imgs/bg-paint.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg-feature {
+  background: rgb(140, 140, 140);
+  background:
+    linear-gradient(
+      315deg,
+      rgba(140, 140, 140, 0.92) 1%,
+      rgba(255, 255, 255, 0.81) 99%
+    );
+}
+
+.bg-ifeature {
+  background: rgb(140, 140, 140);
+  background:
+    linear-gradient(
+      135deg,
+      rgba(140, 140, 140, 0.92) 1%,
+      rgba(255, 255, 255, 0.81) 99%
+    );
+}
+
+iframe {
+  width: 75%;
+  height: 450px;
+  border-radius: 10px;
+}
+
+.i-feature {
+  font-size: 4rem;
+  margin: 1rem;
+}
+
+.img-small {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.img-learn {
+  height: 200px;
+  object-fit: cover;
+}
+
+.sec-facts {
+  height: 250px;
+}
+
+.social-media-links {
+  font-size: 2rem;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .bg-cool {
+    display: flex;
+    justify-content: center;
+  }
+}
