@@ -1,8 +1,10 @@
 # Art-galery-Locator
 This is a web application to help you find a registered Art galery. Microverse Capstone Project.
-<<<<<<< main-page
 
 This project was made to show my basic HTML and CCS skills I prefered to use Bootstrap, I used a lot of gradient for the header and footer. The result is a responsive web page.
+
+By default Bootstrap has it's -lg- breakpoint set at 768px.
+For this project I customized bootstrap to hav an -lg- breakpoint at 1024px. 
 
 ## Live Demo
 [Live Demo Link](https://gallerylocator.netlify.com)
